@@ -1,4 +1,4 @@
-# traffic_eye
+# traffic_eye :car:
 nn to detect and interpret traffic signs 
 
 # Planned ahead
